@@ -10,6 +10,10 @@ The simulator demonstrates my understanding of a classic pipelined architecture 
 - **Issue & Execution**: Implements a basic scoreboard to track register and memory dependencies, issuing instructions when operands are ready and no hazards are present.
 - **Memory Access & Write-Back**: Supports memory load/store and updates registers once instructions are complete, simulating the flow of data through a processor pipeline.
 
+## The Architecture
+
+![image](https://github.com/EdwardGrasshopper/GAN-New-Music/assets/115425504/7ebdbccd-4fae-4812-9bcd-0cb9c3df68ae)
+
 ## How It Works
 
 This simulator is written in C++ and outputs a detailed trace of each cycle, showing the states of the pipeline’s registers, memory, and queues. I worked to make it as close to cycle-accurate as possible for a single-threaded simulation.
