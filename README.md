@@ -12,7 +12,7 @@ The simulator demonstrates my understanding of a classic pipelined architecture 
 
 ## The Architecture
 
-![image](https://github.com/EdwardGrasshopper/GAN-New-Music/assets/115425504/7ebdbccd-4fae-4812-9bcd-0cb9c3df68ae)
+![image](https://github.com/Brayden-Smith/TeamScheduler/blob/master/image_2024-11-09_181107507.png)
 
 ## How It Works
 
